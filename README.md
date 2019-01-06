@@ -3,7 +3,7 @@ The Jupyter notebook contains code to analyze the relationships between Google P
 
 My findings are summarised as follows:
 1) App ratings follow a left-skewed distribution, with a mean of 4.19 and a standard deviation of 0.53
-2) On average, education apps are the highest-rated, while dating apps are the lowest-rated
+2) On average, education apps are the highest-rated (4.38), while dating apps are the lowest-rated (3.97)
 3) The lowest-rated apps tend to be smaller in size
 4) Paid apps tend to have higher ratings than free apps (difference is statistically significant at the 1% level)
 5) Higher-rated apps tend to be installed more times than lower-rated apps (difference is statistically significant at the 1% level)
